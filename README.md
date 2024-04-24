@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Abuzar Yaseen! 👋
 
-<!--
-**AbuzarYaseen/AbuzarYaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer passionate about creating amazing web experiences with React, Next.js, and JavaScript.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Improving my skills in React and Next.js
+- Building a portfolio website
+
+## 🌱 I’m currently learning
+
+- Advanced React patterns and best practices
+- Server-side rendering with Next.js
+
+## 💬 Ask me about
+
+- React
+- Next.js
+- JavaScript
+
+## 📫 How to reach me
+
+- Email: abuzaryaseen88@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abuzar-yaseen/
+
+
+## ⚡ Fun fact
+
+I love hiking and exploring new trails in my free time!
+
+Feel free to reach out if you have any questions or just want to chat. I'm always open to new connections and opportunities! 😊
