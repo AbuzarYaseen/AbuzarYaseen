@@ -15,7 +15,7 @@
   
   <br /><br />
 <a href="https://abuzar-yaseen.vercel.app/">
-  <img src="https://komarev.com/ghpvc/?username=ubaid2917&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=AbuzarYaseen&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </a>
 </div>
 
